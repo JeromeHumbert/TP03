@@ -3,7 +3,7 @@
 
 
 
-# Méthodes
+# Fonctions
 
 
 

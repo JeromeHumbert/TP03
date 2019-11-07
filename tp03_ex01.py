@@ -1,6 +1,6 @@
 from mots_pendus import tirer_mot
 
-#Méthodes
+#Fonctions
 
 
 #Programme principal
